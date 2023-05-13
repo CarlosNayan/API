@@ -6,6 +6,3 @@ export function buildRoutePath(path) {
 
   return pathRegex
 }
-
-
-/// Aula 4!!!!
